@@ -1,0 +1,18 @@
+id: I4406340A
+default_language: it
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:53.083875
+last_modified: 2023-01-04 11:32:53.083888
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  9D9E:
+    title: The Prayer in Six Vajra Lines
+    base_file: 9D9E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
